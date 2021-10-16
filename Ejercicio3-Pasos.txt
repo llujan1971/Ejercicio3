@@ -1,8 +1,0 @@
-Ejercicio 3:
-
-docker pull nicopaez/passwordapi-java:java8-alpine
-docker pull nicopaez/passwordapi-java:java8-fabric
-docker inspect nicopaez/passwordapi-java:java8-alpine
-docker inspect nicopaez/passwordapi-java:java8-fabric
-
-Tienen un layer en comun
