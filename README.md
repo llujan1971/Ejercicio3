@@ -5,8 +5,15 @@ docker pull nicopaez/passwordapi-java:java8-alpine
 
 docker pull nicopaez/passwordapi-java:java8-fabric
 
+
 docker inspect nicopaez/passwordapi-java:java8-alpine
+
+Tiene 4 layers
+
 
 docker inspect nicopaez/passwordapi-java:java8-fabric
 
-Tienen un layer en comun
+Tiene 9 layers
+
+
+Tienen en comun la primer capa.
